@@ -1,4 +1,4 @@
-# Practical Exam for ReactJS Developer
+# Practical Exam for ReactJS Developer (TypeScript)
 
 
 ## Description
